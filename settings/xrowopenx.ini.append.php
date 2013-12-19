@@ -5,9 +5,12 @@
 AdserverURL=http://openx.xrow.de/www
 #Points to the www directory of OpenX
 
-SiteID=2
 # Get this ID from http://openx.xrow.de/www/delivery/spcjs.php?id=2
 # It is the ID of the Website you setup in Openx(OpenX Admin -> Inventory -> Websites). 
+# The parameter is optional
+#SiteID=2
+
+
 
 BannerZones[]
 BannerZones[banner_120x90]=8
